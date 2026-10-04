@@ -1,0 +1,8 @@
+held_out,n_test,acc,f1
+AZ-A,46,0.717391,0.700251
+taxol,106,1.0,1.0
+cytochalasin B,30,1.0,1.0
+ALLN,38,0.789474,0.75641
+cytochalasin D,30,1.0,1.0
+methotrexate,30,0.833333,0.721707
+nocodazole,30,1.0,1.0
